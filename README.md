@@ -181,7 +181,8 @@ The dashboard contains several interactive Power BI visuals:
 
 ## 🎨 Dashboard Preview
 
-https://github.com/Harsha2359/HR_Analytics_Dashboard/blob/main/HR_Analytics_Dashboard_image.png
+
+ ![Dashboard preview].(https://github.com/Harsha2359/HR_Analytics_Dashboard/blob/main/HR_Analytics_Dashboard_image.png)
 
 ---
 
